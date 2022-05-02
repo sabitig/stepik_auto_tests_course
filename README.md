@@ -1,3 +1,3 @@
 # stepik_auto_tests_course
 
-homework of the second module of the course
+this repository contains practice tasks from the test automation course
