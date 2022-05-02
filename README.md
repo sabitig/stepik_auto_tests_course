@@ -1,2 +1,3 @@
 # stepik_auto_tests_course
-homework for the course
+
+homework of the second module of the course
